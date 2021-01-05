@@ -1,3 +1,5 @@
+# in app/models
+
 class Show < ActiveRecord::Base
 
     def Show.highest_rating
